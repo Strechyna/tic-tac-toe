@@ -1,0 +1,25 @@
+#board {
+    width: 300px;
+}
+
+#board tr {
+    height: 100px;
+}
+
+#board td {
+    width: 100px;
+    text-align: center;
+    font-size: 50px;
+}
+
+#board td:hover {
+    background-color: #0d6efd;
+}
+
+.modal-header-success {
+    background-color: #5cb85c;
+}
+
+.modal-header-danger {
+    background-color: #d9534f;
+}

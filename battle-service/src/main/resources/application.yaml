@@ -1,0 +1,9 @@
+server:
+  error:
+    include-message: always
+    include-binding-errors: always
+
+spring:
+  redis:
+    host: 127.0.0.1
+    port: 6379
